@@ -1,0 +1,50 @@
+{
+  "retrieval_ms": 10,
+  "hits": [
+    {
+      "score": 0.29955219274614575,
+      "text": "Python was created in the early 1990s by Guido van Rossum at Stichting Mathematisch Centrum (CWI, see https://www.cwi.nl ) in the Netherlands as a successor of a language called ABC. Guido remains Pythonâs principal author, although it includes many contributions from others. In 1995, Guido continued his work on Python at the Corporation for National Research Initiatives (CNRI, see https://www.cnri.reston.va.us ) in Reston, Virginia where he released several versions of the software. In May 2000, Guido and the Python core development team moved to BeOpen.com to form the BeOpen PythonLabs team. In October of the same year, the PythonLabs team moved to Digital Creations, which became Zope Corporation. In 2001, the Python Software Foundation (PSF, see https://www.python.org/psf/ ) was forme",
+      "url": "https://docs.python.org/3/license.html"
+    },
+    {
+      "score": 0.28425654977794995,
+      "text": "int for ports to all other platforms. Download the latest Python 3 source. Read more This site hosts the \"traditional\" implementation of Python (nicknamed CPython). A number of alternative implementations are available as well. Read more Python was created in the early 1990s by Guido van Rossum at Stichting Mathematisch Centrum in the Netherlands as a successor of a language called ABC. Guido remains Python’s principal author, although it includes many contributions from others. Read more See Status of Python versions for all an overview of all versions, including unsupported. Starting with the Python 3.11.0 , Python 3.10.7 , and Python 3.9.14 releases, CPython release artifacts are signed with Sigstore. See our dedicated Sigstore Information page for how it works. Python versions before 3",
+      "url": "https://www.python.org/downloads/"
+    },
+    {
+      "score": 0.12515682127650726,
+      "text": "ic analysis with Clang What is Clang? What are sanitizers? Clang/LLVM setup Python build setup Analyzing the output Tools for tracking compiler warnings What to do if a warning check fails GitHub CI Updating the warning ignore file Core team Responsibilities Communication channels and bug notifications Sign a contributor agreement Pull request merging Expectations Accepting pull requests Assessing a pull request Updating NEWS and What’s New in Python Working with Git Experts index Stdlib Tools Platforms Miscellaneous Documentation translations Team log Procedure for granting or dropping access Motivations and affiliations Published entries Goals of this page Limitations on scope How to join the core team What it takes Gaining commit privileges Poll template Memorialization Rationale The pr",
+      "url": "https://devguide.python.org/"
+    },
+    {
+      "score": 0.07085459962523215,
+      "text": "Welcome! This is the official documentation for Python 3.14.0. Documentation sections: What's new in Python 3.14? Or all \"What's new\" documents since Python 2.0 Tutorial Start here: a tour of Python's syntax and features Library reference Standard library and builtins Language reference Syntax and language elements Python setup and usage How to install, configure, and use Python Python HOWTOs In-depth topic manuals Installing Python modules Third-party modules and PyPI.org Distributing Python modules Publishing modules for use by other people Extending and embedding For C/C++ programmers Python's C API C API reference FAQs Frequently asked questions (with answers!) Deprecations Deprecated functionality Indices, glossary, and search: Global module index All modules and libraries General ind",
+      "url": "https://docs.python.org"
+    },
+    {
+      "score": 0.05266712692247537,
+      "text": "nounce your module or application to the Python community, use comp.lang.python.announce . See the guide to Python mailing lists for more information. To propose changes to the Python core, post your thoughts to comp.lang.python . If you have an implementation, follow the Python Patch Guidelines . If you have a question are not sure where to report it, check out the WhereDoIReportThis? page. CategoryDocumentation Read BeginnersGuide/Overview for a short explanation of what Python is. Getting Python Next, install the Python 3 interpreter on your computer. This is the program that reads Python programs and carries out their instructions; you need it before you can do any Python programming. Mac and Linux distributions may include an outdated version of Python (Python 2), but you should insta",
+      "url": "https://wiki.python.org/moin/BeginnersGuide"
+    }
+  ],
+  "answer": "not found in crawled content",
+  "sources": [
+    {
+      "url": "https://docs.python.org/3/license.html",
+      "snippet": "Python was created in the early 1990s by Guido van Rossum at Stichting Mathematisch Centrum (CWI, see https://www.cwi.nl ) in the Netherlands as a successor of a language called ABC. Guido remains Pyt"
+    },
+    {
+      "url": "https://www.python.org/downloads/",
+      "snippet": "int for ports to all other platforms. Download the latest Python 3 source. Read more This site hosts the \"traditional\" implementation of Python (nicknamed CPython). A number of alternative implementat"
+    },
+    {
+      "url": "https://devguide.python.org/",
+      "snippet": "ic analysis with Clang What is Clang? What are sanitizers? Clang/LLVM setup Python build setup Analyzing the output Tools for tracking compiler warnings What to do if a warning check fails GitHub CI U"
+    }
+  ],
+  "generation_ms": 0,
+  "timings": {
+    "retrieval_ms": 10,
+    "generation_ms": 0
+  }
+}

@@ -1,0 +1,4 @@
+question,retrieval_ms,generation_ms,total_ms,answer,sources
+When was Python first released?,23,3,26,not found in crawled content,https://docs.python.org/3/license.html;https://www.python.org/about/quotes/;https://wiki.python.org/moin/BeginnersGuide
+Who created Python?,22,0,22,not found in crawled content,https://www.python.org/doc/av;https://devguide.python.org/;https://www.python.org/downloads/
+What is Guido van Rossum's net worth?,26,0,26,not found in crawled content,https://docs.python.org/3/license.html;https://www.python.org/downloads/;https://devguide.python.org/

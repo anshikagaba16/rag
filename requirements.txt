@@ -1,0 +1,8 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+# Use a recent available robotexclusionrulesparser release
+robotexclusionrulesparser==1.7.1
+tqdm==4.66.1
+pytest==7.4.0
